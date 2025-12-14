@@ -29,7 +29,7 @@ The setup follows **AWS best practices** for networking, security, and high avai
 - ACM (SSL/TLS Certificate)
 
 **Architecture Diagram:**  
-![Architecture Diagram](screenshots/architecture.png)
+![Architecture Diagram] (architecture-diagram-alb.jpg)
 
 ---
 
