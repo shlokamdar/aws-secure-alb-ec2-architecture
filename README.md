@@ -53,7 +53,8 @@ The setup follows **AWS best practices** for networking, security, and high avai
 6. Configured Target Group listening on custom port **8443**
 7. Registered domain and routed traffic using Route 53 Alias record
 8. Enabled HTTPS by attaching ACM certificate to ALB listener (port 443)
-[find  documentation with screenshots in the repo] 
+
+[find  documentation with screenshots in the repo] ![Documentation](Step-by-Step_Implementation.pdf)
 
 ---
 
